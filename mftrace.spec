@@ -16,6 +16,7 @@ Requires:	tetex
 BuildRequires:	autotrace
 BuildRequires:	potrace
 BuildRequires:	python
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 mftrace is a small Python program that lets you trace a TeX bitmap
