@@ -1,6 +1,6 @@
 Name:		mftrace
 Version:	1.2.14
-Release:	%mkrel 1
+Release:	%mkrel 3
 Epoch:		2
 Summary:	Generates scalable fonts for TeX
 Group:		Publishing
