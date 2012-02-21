@@ -1,6 +1,6 @@
 Name:		mftrace
-Version:	1.2.16
-Release:	%mkrel 2
+Version:	1.2.18
+Release:	%mkrel 1
 Epoch:		2
 Summary:	Generates scalable fonts for TeX
 Group:		Publishing
@@ -12,7 +12,7 @@ Requires:	fontforge
 Requires:	potrace
 Requires:	python
 Requires:	t1utils
-Requires:	tetex
+Requires:	texlive
 BuildRequires:	autotrace
 BuildRequires:	potrace
 BuildRequires:	python
