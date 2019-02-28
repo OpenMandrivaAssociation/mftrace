@@ -1,7 +1,6 @@
 Name:		mftrace
-Version:	1.2.18
-Release:	6
-Epoch:		2
+Version:	1.2.19
+Release:	1
 Summary:	Generates scalable fonts for TeX
 Group:		Publishing
 License:	GPL
