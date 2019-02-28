@@ -6,7 +6,7 @@ Group:		Publishing
 License:	GPL
 URL:		http://lilypond.org/mftrace/
 Source0:	http://lilypond.org/download/sources/mftrace/mftrace-%{version}.tar.gz
-Requires:	autotrace
+Requires:	potrace
 Requires:	fontforge
 Requires:	potrace
 Requires:	python
