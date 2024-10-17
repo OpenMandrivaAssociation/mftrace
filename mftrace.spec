@@ -4,7 +4,7 @@ Release:	3
 Summary:	Generates scalable fonts for TeX
 Group:		Publishing
 License:	GPL
-URL:		http://lilypond.org/mftrace/
+URL:		https://lilypond.org/mftrace/
 Source0:	http://lilypond.org/download/sources/mftrace/mftrace-%{version}.tar.gz
 Requires:	potrace
 Requires:	fontforge
