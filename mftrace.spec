@@ -12,6 +12,11 @@ Requires:	potrace
 Requires:	python
 Requires:	t1utils
 Requires:	texlive
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	autotrace
 BuildRequires:	potrace
 BuildRequires:	python
